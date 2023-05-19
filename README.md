@@ -29,5 +29,7 @@ http://35.170.225.89/buildStatus/text?job=scripts-running
 
 
 [![Build Status](http://35.170.225.89/job/scripts-running/badge/icon)](http://35.170.225.89/job/scripts-running/)
+
+[![Build Status](http://35.170.225.89/buildStatus/icon?job=scripts-running)](http://35.170.225.89/job/scripts-running/)
 for test
 
