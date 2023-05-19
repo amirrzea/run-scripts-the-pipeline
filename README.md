@@ -1,4 +1,4 @@
 # run-scripts-the-pipeline
-http://35.170.225.89/buildStatus/icon?job=scripts-running
+[Build Status](http://35.170.225.89/buildStatus/icon?job=scripts-running "http://35.170.225.89/job/scripts-running/")
 for test
 
